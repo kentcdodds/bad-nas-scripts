@@ -1,0 +1,16 @@
+{
+  "name": "move-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (https://kentcdodds.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cli-progress": "^3.5.0",
+    "p-limit": "^2.2.2"
+  }
+}
